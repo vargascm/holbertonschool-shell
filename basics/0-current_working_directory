@@ -3,3 +3,4 @@
 whereami=$(pwd)
 
 echo "Your current path is $whereami"
+echo "This output corresponds to the pwd script use!"
