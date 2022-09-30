@@ -1,0 +1,5 @@
+#!/bin/bash
+
+whereami=$(pwd)
+
+echo "Your current path is $whereami"
