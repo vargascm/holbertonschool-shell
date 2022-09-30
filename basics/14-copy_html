@@ -1,2 +1,2 @@
-!#/bin/bash 
-cp -n /holbertonschool-shell/basics ..  
+#!/bin/bash 
+find /holbertonschool-shell/basics -name *.html -exec cp{} .. \;  
