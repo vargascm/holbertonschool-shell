@@ -1,2 +1,2 @@
-#!/bin/bash 
-whereami=$(pwd) echo "Your current path's name is $whereami"
+#!/bin/bash
+pwd
