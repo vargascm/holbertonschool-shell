@@ -1,6 +1,2 @@
-#!/bin/bash
-
-whereami=$(pwd)
-
-echo "Your current path is $whereami"
-echo "This output corresponds to the pwd script use!"
+#!/bin/bash 
+whereami=$(pwd) echo "Your current path's name is $whereami"
