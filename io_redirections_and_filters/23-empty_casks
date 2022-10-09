@@ -1,1 +1,2 @@
-find . -empty -print | cut --output-delimiter="file_"  
+#!/bin/bash
+find . -empty
